@@ -1,6 +1,6 @@
 # Weather-app ⛅
 ## Short descreption 😍
-WeatherCast is a an api cite i created using React with typescript and tailwind and openWeather api
+WeatherCast is a website created using NextJs with typescript , tailwind and the openWeather api.
 ## The link to try it 😊
 [Weather Cast](https://weathercasts.vercel.app/)
 ## Preview to the website 😁
