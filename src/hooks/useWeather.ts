@@ -49,7 +49,7 @@ const useWeather = (city: string) => {
 
     axios
       .get(
-        `http://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=545c8ee9a48eb07fe0ac0550c652ea48`
+        `https://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=545c8ee9a48eb07fe0ac0550c652ea48`
       )
       .then((res) => {
         if (res.data.length > 0) {
