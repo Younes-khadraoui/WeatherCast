@@ -13,6 +13,6 @@ body {
 .main {
   width: 100vw;
   height: 100vh;
-  background-color: #696969; /* Set the background color of the yellow shape */
+  background-color: #696969;
   clip-path: polygon(100% 100%, 0% 100%, 100% 0);
 }
