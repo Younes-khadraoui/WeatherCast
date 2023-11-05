@@ -1,7 +1,6 @@
 import { useState } from "react";
 import Header from "../components/header/Header";
 import Hero from "../components/main/Hero";
-import Footer from "@/components/footer";
 import Head from "next/head";
 
 export default function Home() {
@@ -19,7 +18,6 @@ export default function Home() {
           setCity(city);
         }}
       />
-      <Footer />
     </main>
   );
 }

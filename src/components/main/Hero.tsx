@@ -13,7 +13,7 @@ const Hero = ({ setCityF }: Props) => {
   sendCity(city);
 
   return (
-    <div className="Hero min-h-screen grid place-content-center gap-5">
+    <div className="Hero mx-4 min-h-screen grid place-content-center gap-5">
       <SearchBar
         clickedSearchBtn={(city) => {
           setCity(city);
