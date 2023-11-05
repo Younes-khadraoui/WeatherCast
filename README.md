@@ -4,5 +4,5 @@ WeatherCast is a website created using NextJs with typescript , tailwind and the
 ## The link to try it 😊
 [Weather Cast](https://weathercasts.vercel.app/)
 ## Preview to the website 😁
-[![123.png](https://i.postimg.cc/vHLCPfrh/123.png)](https://postimg.cc/HVnSnJP8)
+[![123.png](https://i.postimg.cc/prXZXJQC/123.png)](https://postimg.cc/dkpd5dxZ)
 
